@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MyActivity</string>
+    <string name="button">Launch second activity</string>
+    <string name="username">admin</string>
+    <string name="password">Adin@2121</string>
+</resources>
